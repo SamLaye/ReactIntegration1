@@ -1,6 +1,34 @@
+li{
+  list-style-type: none;
+}
+a{
+  text-decoration: none;
+}
 .App {
   text-align: center;
 }
+/* =============================================================== */
+header{
+  background-image: url('Smalltalk.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+header nav {
+  color: #333;
+}
+#home-btn{
+  background-color: #635ab7;
+}
+/* =============================================================== */
+
+/* =============================================================== */
+#testimonial{
+  background-color: #f3f2f8;
+}
+#techserve{
+  background-color: #635ab5;
+}
+/* =============================================================== */
 
 .App-logo {
   height: 40vmin;
